@@ -18,9 +18,9 @@ O repositório está estruturado da seguinte forma:
   - **exercicio1.java**: Solução para o exercício 1 da lista Y.
   - **exercicio2.java**: Solução para o exercício 2 da lista Y.
   - ...
-  - - **/ListaExtra**: Contém as resoluções para os exercícios da lista encontradas na internet ou problemas criados por colaboradores de repositorio, onde Y é o número da lista.
-  - **exercicio1.java**: Solução para o exercício 1 da lista Y.
-  - **exercicio2.java**: Solução para o exercício 2 da lista Y.
+  - - **/ListaExtra**: Contém as resoluções para os exercícios da lista encontradas na internet ou problemas criados por colaboradores de repositorio, onde ? é o número da lista.
+  - **exercicio1.java**: Solução para o exercício 1 da lista ?.
+  - **exercicio2.java**: Solução para o exercício 2 da lista ?.
   - ...
 
 ## Contribuindo
