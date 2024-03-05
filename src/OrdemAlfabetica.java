@@ -12,7 +12,6 @@ public class OrdemAlfabetica {
 
         System.out.print("DIGITE UMA PALAVRA: ");
         String segunda = input.nextLine();
-
         if(primeira.equalsIgnoreCase(segunda) == true){
 
             System.out.print("SÃO IGUAIS... ");
