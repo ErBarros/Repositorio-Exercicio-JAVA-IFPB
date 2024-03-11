@@ -1,3 +1,5 @@
+package ListaExtra;
+
 import java.util.Scanner;
 
 public class NumPrimo {
